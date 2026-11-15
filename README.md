@@ -1,1 +1,1 @@
-# Zadachi---algoritmi
+# Zadachi-algoritmi
